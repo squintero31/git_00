@@ -1,7 +1,7 @@
 ---
 title: "git_00"
-author: "Your Name here"
-date: "Year 2020"
+author: " Shael Quintero"
+date: "Year 2023"
 output: html_document
 ---
 
@@ -15,12 +15,38 @@ you, if you change any of this the git program will notice it and compromise you
 
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
+Girt with a boyish garb for boyish task,  
+Eager she wields her spade: yet loves as well.  
+Rest on the friendly knee, intent to ask.  
+The tale one loves to tell.   
+
+
+
 
 ## Second Verse
 <!--Put the first five lines of a poem by Robert Frost here!-->
 
+
+
+
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+
+
+
+
+
+
+git config --global user.name “squintero3 “
+git config --global user.email “squintero3@students.avc.edu”
+git config --global http.sslverify "false" 
+git config --global core.autocrlf true
+git config --global credential.helper 'cache --timeout 3600
+
+
+
